@@ -1,6 +1,7 @@
 # 小报童专栏精选推荐排行榜 - 为你推荐有价值的知识付费专栏
 
-### [小报童专栏精选推荐排行榜](https://xiaobot.netlify.app/)
+### [小报童专栏精选推荐排行榜](https://xiaobot.netlify.app/)(https://xiaobot.netlify.app/)
+
 
 小报童专栏精选推荐排行榜，帮助你找到最受欢迎和有用的小报童专栏，包括AI副业赚钱、生财有术、小红书变现、公众号爆文、社群运营等热门专栏。
 
@@ -26,4 +27,5 @@
 
 如果你厌倦了紧追热点来写作，厌倦了作品被植入软广，厌倦了被杠精无脑吐槽，应该来试试小报童，体面而用心地创作。
 
-[小报童专栏精选推荐排行榜](https://xiaobot.netlify.app/)
+[小报童专栏精选推荐排行榜](https://xiaobot.netlify.app/)(https://xiaobot.netlify.app/)
+
